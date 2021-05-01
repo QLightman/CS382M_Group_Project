@@ -1,6 +1,6 @@
 # CS382M_Group_Project
 ## Clustering Algorithm on Berkeley Dataset and ISBI Dataset
-The [Berkeley image segmentation dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) contains various images that provide different difficulty level for clustering algorithm. The programs in `image_seg_methods` only experiments with selected images.
+The [Berkeley image segmentation dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) contains numerous images that provide different difficulty level for clustering algorithm. The programs in `image_seg_methods` only experiments with selected images.
 
 To run it, make sure correct image file and .mat label file are imported into `img_seg_samples.py`. After that, run
 ```
