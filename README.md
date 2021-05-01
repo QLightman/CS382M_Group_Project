@@ -20,6 +20,8 @@ python ISBI_samples.py
 
 will give the encoded .tiff outputs of various clustering algorithm.
 
+<br/>
+
 ## Deep learning based approach
 
 ### How to run
