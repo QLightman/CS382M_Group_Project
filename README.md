@@ -18,7 +18,7 @@ run
 python ISBI_samples.py
 ```
 
-will give the outputs, which are also encoded into .tiff files, of various clustering algorithm.
+will give the encoded .tiff outputs of various clustering algorithm.
 
 ## Deep learning based approach
 
